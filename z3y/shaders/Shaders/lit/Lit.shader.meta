@@ -1,0 +1,53 @@
+fileFormatVersion: 2
+guid: a73e837bb2d7deb4eb9f7e47f2a0737d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _MetallicGlossMap: {instanceID: 0}
+  - _SmoothnessMap: {instanceID: 0}
+  - _MetallicMap: {instanceID: 0}
+  - _OcclusionMap: {instanceID: 0}
+  - _BumpMap: {instanceID: 0}
+  - _EmissionMap: {instanceID: 0}
+  - _AnisotropyMap: {instanceID: 0}
+  - _SpecGlossMap: {instanceID: 0}
+  - _ParallaxMap: {instanceID: 0}
+  - _DetailMap: {instanceID: 0}
+  - _AudioTexture: {instanceID: 0}
+  - _ALEmissionMap: {instanceID: 0}
+  - _RNM0: {instanceID: 0}
+  - _RNM1: {instanceID: 0}
+  - _RNM2: {instanceID: 0}
+  - _GIJOE_INPUT: {instanceID: 0}
+  - _LM_GIJOE_0: {instanceID: 0}
+  - _RNM0_GIJOE_0: {instanceID: 0}
+  - _RNM1_GIJOE_0: {instanceID: 0}
+  - _RNM2_GIJOE_0: {instanceID: 0}
+  - _LM_GIJOE_1: {instanceID: 0}
+  - _RNM0_GIJOE_1: {instanceID: 0}
+  - _RNM1_GIJOE_1: {instanceID: 0}
+  - _RNM2_GIJOE_1: {instanceID: 0}
+  - _LM_GIJOE_2: {instanceID: 0}
+  - _RNM0_GIJOE_2: {instanceID: 0}
+  - _RNM1_GIJOE_2: {instanceID: 0}
+  - _RNM2_GIJOE_2: {instanceID: 0}
+  - _LM_GIJOE_3: {instanceID: 0}
+  - _RNM0_GIJOE_3: {instanceID: 0}
+  - _RNM1_GIJOE_3: {instanceID: 0}
+  - _RNM2_GIJOE_3: {instanceID: 0}
+  - _LM_GIJOE_4: {instanceID: 0}
+  - _RNM0_GIJOE_4: {instanceID: 0}
+  - _RNM1_GIJOE_4: {instanceID: 0}
+  - _RNM2_GIJOE_4: {instanceID: 0}
+  - _LM_GIJOE_5: {instanceID: 0}
+  - _RNM0_GIJOE_5: {instanceID: 0}
+  - _RNM1_GIJOE_5: {instanceID: 0}
+  - _RNM2_GIJOE_5: {instanceID: 0}
+  - _DisplacementMask: {instanceID: 0}
+  - _DisplacementNoise: {instanceID: 0}
+  - _ThicknessMap: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
