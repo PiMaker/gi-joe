@@ -4,6 +4,8 @@ Lightmap-based fake realtime GI, i.e. light emissions from a video player that a
 
 Shader code is based on (a now outdated version of) [z3y's PBR shader](https://github.com/z3y/shaders). It includes some other changes (e.g. fake realtime reflection, not explained here), but the most important part is [this function](https://github.com/PiMaker/gi-joe/blob/f0690d3a9f851c858d7348909775c8ddd69e5ed5/z3y/shaders/Shaders/lit/Bakery.cginc#L334).
 
+**NOTE:** Due to the complex and hacky/tech-demo nature of this I will not help you make it work in your world, though you're free to do so because of the MIT license. While you're at it, you may want to check out my [other, supported prefabs](https://github.com/PiMaker/VRChatUnityThings) :)
+
 Showcase world: https://vrchat.com/home/launch?worldId=wrld_f7724ef4-34f0-4beb-a46b-9f85059ebb1f
 
 Dependencies:
