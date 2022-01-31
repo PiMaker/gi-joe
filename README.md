@@ -1,4 +1,10 @@
-# GI Joe - Fake realtime GI for VRChat video players
+# Outdated - Use LTCGI instead
+
+[LTCGI](https://github.com/pimaker/ltcgi)
+
+
+
+## GI Joe - Fake realtime GI for VRChat video players
 
 Lightmap-based fake realtime GI, i.e. light emissions from a video player that affect the world. Uses multiple Bakery SH-directional lightmaps to provide full normal mapping and baked specular highlights.
 
